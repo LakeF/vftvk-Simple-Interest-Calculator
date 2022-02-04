@@ -1,4 +1,18 @@
-body {background-color:tan;}
-h1{color:green;}
+body { background-color: #000000;  font-family: Arial; color: white;}
 
+h1{ color: grey; font-family: Verdana;}
 
+.maindiv { background-color: white; color: black; width: 500px; padding: 20px; margin-left: auto; margin-right: auto; border-radius: 20px;}
+
+.contents { margin-left: 85px; }
+table td
+{
+    padding-bottom: 10px;
+}
+
+#compute { margin-bottom: 15px;}
+#principal{ height: 30px; width: 180px;}
+
+.highlight {  background-color: yellow;}
+
+#footer {  margin-top: 10px; }
